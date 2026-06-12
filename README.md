@@ -2,8 +2,7 @@
 
 ### Computer Science & AI Student at Cairo University • Deep Learning Enthusiast
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khaledsaads)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-saad-574a142b2/)
+[**My GitHub Profile**](https://github.com/Khaledsaads) | [**My LinkedIn Profile**](https://www.linkedin.com/in/khaled-saad-574a142b2/)
 
 Hi, I'm Khaled, a Computer Science & AI student driven by a **bottom-up implementation philosophy**. I focus on developing, optimizing, and serving Machine Learning and Computer Vision pipelines.
 
@@ -14,17 +13,9 @@ Hi, I'm Khaled, a Computer Science & AI student driven by a **bottom-up implemen
 
 ## 🛠️ Languages & Frameworks & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SciKit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,pytorch,numpy,sklearn,fastapi,git,docker,linux,vscode)](https://skillicons.dev)
+
+*(Includes Streamlit for lightweight production UI deployment)*
 
 ---
 
