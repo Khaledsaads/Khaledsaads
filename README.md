@@ -45,38 +45,6 @@
 
 </p>
 
----
-<h2 align="center">📊 GitHub Stats & Activity 📊</h2>
-
-<p align="center">
-
-  <!-- GitHub Stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Khaledsaads&show_icons=true&theme=react&hide_border=true"/>
-
-  <!-- Streak Stats -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khaledsaads&theme=react&hide_border=true"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-  <!-- Top Languages -->
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledsaads&layout=compact&theme=react&hide_border=true"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-  <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Khaledsaads&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
 
 ## 🔗 Connect With Me
 
