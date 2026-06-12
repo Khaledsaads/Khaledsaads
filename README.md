@@ -24,6 +24,7 @@
 <p align="center">
 
 <p align="center">
+
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"/>
@@ -32,13 +33,13 @@
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg"/>
 
-  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NumPy.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matplotlib-Dark.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Seaborn-Dark.svg"/>
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg"/>
 
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg"/>
+  <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Streamlit.svg"/>
+
   <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
+
 
 </p>
 
